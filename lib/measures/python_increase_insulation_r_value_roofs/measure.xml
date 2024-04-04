@@ -1,12 +1,12 @@
 <measure>
   <schema_version>3.0</schema_version>
-  <name>increase_insulation_r_value_for_roofs_by_percentage</name>
+  <name>python_increase_insulation_r_value_roofs</name>
   <uid>42a4a936-5f9a-48fd-9157-e4981b9a9dca</uid>
   <version_id>566a54c2-3683-424a-8aec-571861ea78e5</version_id>
   <version_modified>20220921T215418Z</version_modified>
   <xml_checksum>350B6836</xml_checksum>
   <class_name>IncreaseInsulationRValueForRoofsByPercentagePython</class_name>
-  <display_name>Increase R-value of Insulation for Roofs by a Specified Percentage.</display_name>
+  <display_name>Python Increase Insulation R-Value for Roofs.</display_name>
   <description>Increase the R value of the insulation layer in roof constructinons by a percentage.</description>
   <modeler_description>Insulation later is inferred by finding the existing layer with the highest thermal resistance.</modeler_description>
   <arguments>
